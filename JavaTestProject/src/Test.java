@@ -1,4 +1,5 @@
 
 public class Test {
-	private final static String LOH = "Vitya"; 
+	private final static String LOH = "Not Vasya";
+	
 }
